@@ -4,8 +4,8 @@
 ### Aim
 - To master process creation system calls
 
-### Objectives
-- solve several small tasks that user `fork`, `exec*`, `waitpid`, `exit` etc system calls.
+### Tasks
+- solve several small tasks that use `fork`, `exec*`, `waitpid`, `exit` UNIX/Linux system calls.
 
 ## DOMATH
 Write a program `domath.c` and compile it as `domath`. The program should accept **two** arguments, create **four** child processes and pass the arguments to the child processes. Each of the child processes should perfom an arithmetic operation over the arguments (like addition, subtraction, multiplication or division) as shown below. File `domath.c` should contain code of parent process and all its child processes.
