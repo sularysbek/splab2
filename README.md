@@ -57,7 +57,7 @@ $ Enter your command: showjobs
 $ Enter your command: exit
 ```
 
-## \*DOMATH the Linux Way (sorry Mac users)
+## \*DOMATH the Linux Way (not for Mac users)
 
 This task is optional.
 
